@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BNO-055")(type "KiCad")(uri "${KIPRJMOD}/BNO-055.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino mega")(type "KiCad")(uri "${KIPRJMOD}/arduino mega.kicad_sym")(options "")(descr ""))
+)
